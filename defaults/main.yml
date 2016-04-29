@@ -1,0 +1,6 @@
+---
+# defaults file for sa-hashicorp-terraform
+  
+  apps_dir: /opt
+  terraform_version: 0.6.15
+
